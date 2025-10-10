@@ -88,4 +88,5 @@ Open a pull request, and I’ll take a look!
 Thanks
 
 I got inspired by visual novel games and wanted to try making one in C.
+The ending "Heart Connected" is a reference to an animation on youtube by ReeKu: https://youtu.be/_Td3zxOjoRM?si=teHaczmXpE-iJ73Y
 Thanks for checking out my game! I hope you enjoy it, and sorry if there are any bugs—I’m still getting the hang of this!
