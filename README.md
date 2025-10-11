@@ -93,4 +93,6 @@ I’m still learning, so if you have ideas to make this better, I’d love to he
 ---
 
 ## Thanks! 🙌
-I got inspired by visual novel games and wanted to try making one in C. The ending "Heart Connected" is a nod to an animation on YouTube by ReeKu: [link](https://www.youtube.com/watch?v=Td3xOjORMsi). Thanks for checking out my game! I hope you enjoy it, and sorry if there are bugs—I’m still getting the hang of this! 😅
+- I got inspired by visual novel games and wanted to try making one in C. 
+- The ending "Heart Connected" is a nod to an animation on YouTube by ReeKu: [link](https://www.youtube.com/watch?v=Td3xOjORMsi).
+- Thanks for checking out my game!I hope you enjoy it, and sorry if there are bugs—I’m still getting the hang of this! 😅
